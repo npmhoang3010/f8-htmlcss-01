@@ -10,6 +10,11 @@
     --desc-color: #5a6473;
 }
 
+html,
+body {
+    scroll-behavior: smooth;
+}
+
 html {
     font-size: 62.5%;
 }
